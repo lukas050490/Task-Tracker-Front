@@ -8,7 +8,7 @@ Bem-vindo ao **Organizador de Tarefas e Tempo de Foco**, um projeto desenvolvido
 ![Tela de Tarefas](https://github.com/lukas050490/Task-Tracker-Front/blob/main/public/Task%20Tracker%20-%20Google%20Chrome%2022_06_2025%2009_02_45.PNG)
 
 ### ⏳ Tela de Tempo de Foco
-![Tela de Foco](https://github.com/seu-usuario/seu-repositorio/blob/main/public/foco.png?raw=true)
+![Tela de Foco](https://github.com/lukas050490/Task-Tracker-Front/blob/main/public/Task%20Tracker%20-%20Google%20Chrome%2022_06_2025%2009_03_08.PNG)
 
 ---
 
