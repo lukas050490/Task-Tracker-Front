@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: var(--dark-blue);
+}
+
+.container h1 {
+    font-size: 26px;
+    font-weight: 600;
+    color: var(--white);
+}
